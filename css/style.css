@@ -87,6 +87,13 @@
   border-radius: 15px;
   padding-top: 5px;
 }
+.carousel .carousel-inner .carousel-item .carousel-caption p {
+  font-size: 20px;
+  color: #c6c9c2;
+  padding-top: 5px;
+  background-color: #012520;
+  border-radius: 15px;
+}
 
 .position1 img {
   width: 100%;
