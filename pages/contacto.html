@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- META PARA CEO -->
+
+    <!-- META TAGS -->
+    <!-- Primary Meta Tags -->
+    <title>Contacto / Fishing Club</title>
+    <meta name="title" content="Contacto / Fishing Club">
+    <meta name="description" content="Contactanos, somos Fishing Club y estamos atentos a tus dudas sobre nustras excursiones de Pesca Deportiva en la Patagonia Argentina.">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://gianfrancocherubini.github.io/desarrollo-web/pages/contacto.html">
+    <meta property="og:title" content="Contacto / Fishing Club">
+    <meta property="og:description" content="Contactanos, somos Fishing Club y estamos atentos a tus dudas sobre nustras excursiones de Pesca Deportiva en la Patagonia Argentina.">
+    <meta property="og:image" content="C:\Users\Cherubini\Desktop\3-Entrega\multimedia\logo.jpg">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://gianfrancocherubini.github.io/desarrollo-web/pages/contacto.html">
+    <meta property="twitter:title" content="Contacto / Fishing Club">
+    <meta property="twitter:description" content="Contactanos, somos Fishing Club y estamos atentos a tus dudas sobre nustras excursiones de Pesca Deportiva en la Patagonia Argentina.">
+    <meta property="twitter:image" content="C:\Users\Cherubini\Desktop\3-Entrega\multimedia\logo.jpg">
+
+
+    <!-- FAVICON -->
+    <link rel="icon" href="../multimedia/icon.ico">
+
+    <!-- LINK AL BOOTSTRAP -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+       
+    <!--LINK AL CSS-->
+    <link rel="stylesheet" href="../css/style.css">
+
+    <!--LINK TIPOGRAFIA-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Hindi&display=swap" rel="stylesheet">
+
+</head>
+
+<body class="bienvenida">
+   
+    <!--HEADER-->
+    <header> 
+                            <!--NAVEGADOR-->      
+        <nav class="navbar navbar-expand-lg fixed-top">
+            <div class="container-fluid">
+              
+                <a class="navbar-brand" href="../index.html">
+                    <img src="../multimedia/logo.jpg" class="rounded" alt="Logo Fishing CLub">
+                </a>
+                <button class="navbar-toggler bg-body" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+              
+                <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="../index.html">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="quienes_somos.html">Quienes Somos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="actividades.html">Actividades</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="galeria.html">Galeria</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="contacto.html">Contacto</a>
+                        </li>
+                    <ul>  
+                <div>
+            <div> 
+        </nav>  
+    </header>
+
+    <!--MAIN--> 
+    <main class="main">
+                            <!--TITULO-->
+        <div class="contacto">               
+            <h1>"NUESTRO CONTACTO"</h1>
+        </div>      
+                            <!--FORMULARIO-->
+
+        <div class="container">                   
+        
+            <form class="row g-3 mt-3">
+
+                <div class="col-6">
+                    <label for="nombre" class="form-label">Nombre</label>
+                    <input type="text" class="form-control" name="nombre" placeholder="Nombre">
+                </div>
+        
+                <div class="col-6">
+                    <label for="apellido" class="form-label">Apellido</label>
+                    <input type="text" class="form-control" name="apellido" placeholder="Apellido">
+                </div>
+        
+                <div class="col-6">
+                    <label for="email" class="form-label" >Email</label>
+                    <input type="email" class="form-control" name="email" placeholder="Email">
+                </div>
+        
+                <div class="col-6">
+                    <label for="telefono" class="form-label">Telefono</label>
+                    <input type="number" class="form-control" name="telefono" placeholder="Telefono">
+                </div>
+        
+                <div class="col-6">
+                    <label for="actividades" class="form-label">Elija la actividad</label>
+                    <select name="actividades" class="form-control" id="">
+                    <option value="T">Río Traful</option>
+                    <option value="Y">Lago Yakush</option>
+                    <option value="CO">Río Corcovado</option>
+                    <option value="CA">Río Carrileufu</option>
+                    </select>
+                </div>
+        
+                <div class="col-6">
+                    <label for="personas" class="form-label">Cantidad de personas</label>
+                    <input type="number" class="form-control" name="personas" id="" placeholder="Personas a asistir">
+                </div> 
+        
+
+                <div class="button">
+                    <input type="submit" value="Enviar">
+                    <input type="reset" value="Resetear formulario">
+                </div>
+
+            </form>  
+        
+        </div>
+
+
+    </main>
+
+    <!--FOOTER-->
+    <footer class="footer">
+        <div class="logos">    
+            <ul class="redes">
+                <li><a href="https://www.facebook.com/" target="_blank"><img src="../multimedia/facebook.png" alt="Logo Facebook"></a></li>
+                <li><a href="https://www.youtube.com/" target="_blank"><img src="../multimedia/youtube.png" alt="Logo Youtube"></a></li>
+                <li><a href="https://www.instagram.com/" target="_blank"><img src="../multimedia/instagram.png" alt="Logo Instagram"></a></li>
+            </ul>
+            <a href="https://www.google.com.ar/maps/place/C%C3%B3rdoba/@-31.399084,-64.3344304,11z/data=!3m1!4b1!4m6!3m5!1s0x9432985f478f5b69:0xb0a24f9a5366b092!8m2!3d-31.4200833!4d-64.1887761!16zL20vMDFrMDNy"
+            target="_blank">Cordoba, Capital
+            </a>
+        </div>
+    </footer>
+
+ <!-- SCRIPT DE BOOTSTRAP -->
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+    
+
+</body>
+</html>
