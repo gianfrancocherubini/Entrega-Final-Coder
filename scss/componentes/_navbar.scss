@@ -1,0 +1,31 @@
+// NAVBAR
+.navbar {
+    background: $color-fondo-nav;
+    .navbar-brand {
+        img {
+            width: 100px;
+            height: 100px;
+        }
+    }
+    .navbar-toggler {
+        color: $color-letras;
+    }
+    .navbar-nav {
+        li {
+            list-style: none;
+            &:hover {
+                background-color: $color-hover;
+                transition: 1.5s;
+                border-radius: 10px;
+            }
+        }
+        .nav-link {
+            color: $color-letras;
+            font-size: 25px;
+            font-family: 'Tiro Devanagari Hindi', serif;
+        }
+        .nav-item {
+        padding: 10px;
+        }
+    }
+}

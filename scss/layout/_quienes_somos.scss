@@ -1,0 +1,74 @@
+// MAIN QUINES SOMOS
+ 
+.titulo {
+    margin-top: 126px;
+   padding: 15px;
+   text-align: center;
+   text-decoration: underline;
+   border-bottom: solid 5px;
+   background-color: $color-fondo-titulos;
+   h1 {
+       font-size: 50px;
+       text-decoration: underline;
+   }
+}
+
+// CARD DE SERGIO
+.card1 {
+   width: 100%;
+   margin-bottom: 10px;
+   background-color: $color-fondo-titulos;
+   border: solid;
+   margin-top: 10px;
+           
+   .card1_body {
+       text-align: center;
+       padding: 0 30px;
+       img {
+           height: 450px;
+           object-fit: cover;
+           border: solid;
+           border-bottom: none;
+       }
+       h2 {
+           text-decoration: underline;
+           font-size: 40px;
+           padding-top: 15px;
+       }
+       p {
+           padding: 10px 15px;
+           font-size: 20px;
+       }
+   }
+}
+
+// CARD DE FRANCISCO Y FRANCO
+.card2 {
+   display: flex;
+   padding: 0 30px 19px;
+   justify-content: space-around;
+   background-color: $color-fondo-titulos;
+   border-bottom: solid;
+   border-top: solid; 
+   .card2_body {
+       text-align: center;
+       width: 40%;
+       border: solid;
+       border-top: none;
+       img {
+           width: 100%;
+           height: 436px;
+           object-fit: cover;
+           border-bottom: solid;           
+       }
+       h2 {
+           text-decoration: underline;
+           font-size: 40px;
+           padding-top: 15px;           
+       }
+       p {
+           padding: 10px 15px;
+           font-size: 20px;
+       }
+   }       
+}

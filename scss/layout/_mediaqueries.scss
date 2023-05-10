@@ -1,0 +1,411 @@
+// MEDIAQUERIES
+
+// MEDIAQUERIES HASTA 480PX
+@media (max-width:480px) {
+
+                                        //  MEDIAQUERIES "INDEX" HASTA 480PX
+
+    .position1 {
+        h3 {
+            font-size: 25px;
+            font-weight: bolder;
+            padding: 50px 0 50px 0;
+            margin-bottom: 0;
+            margin-top: 126px;
+        }
+        img {
+            border-top: solid;
+            border-bottom: solid;
+        }
+    } 
+    .position2 {
+        h3 {
+            font-size: 25px;
+            font-weight: bolder;
+            padding: 50px 0 50px 0;
+            margin-bottom: 0;
+        }
+        img {
+            border-top: solid;
+            border-bottom: solid;        
+        }
+    }
+    .consulta {
+        padding: 50px 0 50px 0;
+        margin-bottom: 0; 
+        a {
+            font-size: 20px;
+        }       
+    }
+
+                                        // MEDIAQUERIES "QUIENES SOMOS" HASTA 480PX
+    .titulo {
+        margin-top: 126px;
+        h1 {
+            font-size: 30px;
+            font-weight: bolder;        
+        }
+    }
+
+    // CARD DE SERGIO
+    .card1 {
+        margin-bottom: 0;
+        border-bottom: none;
+        .card1_body {
+            padding: 0; 
+            h2 {
+                font-size: 30px;        
+            } 
+            p {
+                font-size: 25px;        
+            }
+            img {
+                width: 100%;
+                height: 288px;
+                border-left: none;
+                border-right: none;        
+            }      
+        }
+    }
+    // CARD DE FRANCISCO Y FRANCO
+    .card2 {
+        padding: 0;
+        flex-direction: column;
+        border-bottom: none;
+        .card2_body {
+            width: 100%;
+            h2 {
+                font-size: 30px;       
+            }
+            p {
+                font-size: 25px;        
+            }
+            img {
+                height: 275px;        
+            }        
+        }  
+    }
+                                        // MEDIAQUERIES "ACTIVIDADES" HASTA 480PX
+    .actividades {
+        margin-top: 126px;
+        h1 {
+            font-size: 30px;
+            font-weight: bolder;
+        }
+        h2 {
+            font-size: 20px;        
+        }
+    } 
+    .cards {
+        padding: 0;
+        margin-top: 10px;
+        .rio {
+            flex-direction: column;
+            align-items: center;
+            padding: 0;
+            img {
+                width: 100%;
+                border: none;
+                border-bottom: solid;        
+            }
+            .body_card {
+                h3 {
+                    font-size: 30px;        
+                } 
+                p {
+                    font-size: 25px;        
+                }
+                a {
+                    font-size: 20px;        
+                }
+            }        
+        }        
+    }
+                                        // MEDIAQUERIES "GALERIA" HASTA 480PX 
+    .galeria {
+        margin-top: 126px;
+        h1 {
+            font-size: 30px;
+            font-weight: bolder;        
+        }
+    }
+                                        // MEDIAQUERIES "CONTACTO" HASTA 480PX
+    .contacto {
+        margin-top: 126px;
+        h1 {
+            font-size: 30px;
+            font-weight: bolder;        
+        }
+    }
+    .form-control {
+        font-size: 10px;
+    }
+
+
+                                        // MEDIAQUERIES "FOOTER" HASTA 480PX
+    .footer {
+        padding: 8px;
+        .logos {
+            a {
+                font-size: 15px;        
+            }
+        }
+        .redes {
+            gap: 5px;
+            img {
+                width: 20px;
+                height: 20px;        
+            }        
+        }
+    }                                   
+}
+
+// MEDIAQUERIES DESDE 481PX HASTA 600PX
+
+@media (min-width:481px) and (max-width:600px) {
+
+                                        // MEDIAQUERIES "INDEX" DESDE 481PX HASTA 600PX
+    .position1 {
+        h3 {
+            font-size: 35px;
+            font-weight: bolder;
+            padding: 50px 0 50px 0;
+            margin-bottom: 0;
+            margin-top: 126px;
+        }
+        img {
+            border-top: solid;
+            border-bottom: solid;
+        }
+    }
+    .position2 {
+        h3 {
+            font-size: 35px;
+            font-weight: bolder;
+            padding: 50px 0 50px 0;
+            margin-bottom: 0;
+        }
+        img {
+            border-top: solid;
+            border-bottom: solid;
+        }
+    }
+    .consulta  {
+        padding: 50px 0 50px 0;
+        margin-bottom: 0;
+        a {
+            font-size: 25px;
+        } 
+    }        
+                                        // MEDIAQUERIES "QUIENES SOMOS" DESDE 481PX HASTA 600PX
+    .titulo h1 {
+        font-size: 40px;
+        font-weight: bolder;   
+    }
+    //  CARD DE SERGIO 
+    .card1 {
+        margin-bottom: 0;
+        border-bottom: none;
+        .card1_body {
+            padding: 0;
+            img {
+                width: 100%;
+                height: 100%;
+                border-right: none;
+                border-left: none;        
+            }
+        }    
+    }
+    // CARD DE FRANCISCO Y FRANCO
+    .card2 {
+        padding: 0;
+        flex-direction: column;
+        border-bottom: none;
+        .card2_body {
+            width: 100%;
+            img {
+                height: 100%        
+            }
+        }    
+    } 
+                                        // MEDIAQUERIES "ACTIVIDADES" DESDE 481PX HASTA 600PX 
+    .actividades h1 {
+        font-size: 40px;
+        font-weight: bolder;
+    }
+    .actividades h2 {
+        font-size: 25px;
+    }  
+    .cards {
+        padding: 0;
+        margin-top: 10px;
+        .rio {
+            flex-direction: column;
+            align-items: center;
+            padding: 0;
+            img {
+                width: 100%;
+                border: none;
+                border-bottom: solid;        
+            }
+        }
+        .body_card {
+            h3 {
+                font-size: 40px;        
+            }
+            p {
+                font-size: 30px;        
+            }
+            a {
+                font-size: 20px;        
+            }
+        }
+    }  
+                                        // MEDIAQUERIES "GALERIA" DESDE 481PX HASTA 600PX
+    .galeria h1 {
+        font-size: 40px;
+        font-weight: bolder;
+    }    
+                                        // MEDIAQUERIES "CONTACTO" DESDE 481PX HASTA 600PX
+    .contacto h1 {
+        font-size: 35px;
+        font-weight: bolder;
+    }  
+                                        // MEDIAQUERIES "FOOTER" DESDE 481PX HASTA 600PX    
+    .footer {
+        padding: 15px;
+        .logos {
+            a {
+                font-size: 20px;        
+            }
+        }
+        .redes {
+            gap: 15px;
+            img {
+                width: 40px;
+                height: 40px;        
+            }        
+        }
+    } 
+}
+
+// MEDIAQUERIES DESDE 601PX HASTA 1199PX 
+
+@media (min-width:601px) and (max-width:1199px) {
+
+                                        // MEDIAQUERIES "INDEX" DESDE 601PX HASTA 1199PX 
+    .position1 {
+        h3 {
+            font-size: 50px;
+            font-weight: bolder;
+            padding: 50px 0 50px 0;
+            margin-bottom: 0;
+            margin-top: 126px;
+        }
+        img {
+            border-top: solid;
+            border-bottom: solid;
+        }
+    }
+    .position2 {
+        h3 {
+            font-size: 50px;
+            font-weight: bolder;
+            padding: 50px 0 50px 0;
+            margin-bottom: 0;
+        }
+        img {
+            border-top: solid;
+            border-bottom: solid;
+        }
+    }
+    .consulta  {
+        padding: 50px 0 50px 0;
+        margin-bottom: 0; 
+    }
+                                        // MEDIAQUERIES "QUIENES SOMOS" DESDE 601PX HASTA 1199PX 
+    .titulo h1 {
+        font-weight: bolder;
+    } 
+    // CARD DE SERGIO  
+    .card1 {
+        margin-bottom: 0;
+        border-bottom: none;
+        .card1_body {
+            padding: 0;
+        }
+        img {
+            .card1_body img {
+                width: 100%;
+                height: 100%;
+            }        
+        }    
+    }
+    // CARD DE FRANCISCO Y FRANCO
+
+    .card2 {
+        padding: 0;
+        flex-direction: column;
+        border-bottom: none;
+        .card2_body {
+            width: 100%;
+            img {
+                height: 100%;        
+            }
+        }    
+    }        
+                                        // MEDIAQUERIES "ACTIVIDADES" DESDE 601PX HASTA 1199PX 
+    .actividades {
+        h1 {
+            font-weight: bolder;        
+        }
+        h2 {
+            font-size: 30px;        
+        }
+    }
+    .cards {
+        padding: 0;
+        margin-top: 10px;
+        .rio {
+            flex-direction: column;
+            align-items: center;
+            padding: 0;
+            img {
+                width: 100%;
+                border: none;
+                border-bottom: solid;        
+            }        
+        }     
+    }
+                                        // MEDIAQUERIES "GALERIA" DESDE 601PX HASTA 1100PX 
+    .galeria h1 {
+        font-weight: bolder;
+    }    
+                                        // MEDIAQUERIES "CONTACTO" DESDE 601PX HASTA 1199PX
+    .contacto h1 {
+        font-weight: bolder;
+    }                                        
+    .form-label {
+        font-size: 25px;       
+    }
+    .form-control {
+        font-size: 15px;       
+    }
+                                        // MEDIAQUERIES "FOOTER" DESDE 601PX HASTA 1199PX
+    .footer {
+        padding: 17px;
+        .logos {
+            a {
+                font-size: 25px;        
+            }
+        }
+        .redes {
+            gap: 17px;
+            img {
+                width: 45px;
+                height: 45px;        
+            }        
+        }
+    }
+}
+                                     

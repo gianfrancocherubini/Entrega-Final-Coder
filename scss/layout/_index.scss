@@ -1,0 +1,57 @@
+// MAIN INDEX
+    
+// INDEX CON CARRUSEL DESDE XL
+.carousel {
+    margin-top: 115px;
+    .carousel-inner {
+        .carousel-item {
+            .carousel-caption {
+                top: 40px;
+                h1 {
+                    font-size: 50px;
+                    color: $color-letras;
+                    background-color: $color-fondo-titulo-carrusel;
+                    border-radius: 15px;
+                    padding-top: 5px;
+                }
+                h2 {
+                    font-size: 50px;
+                    color: $color-letras;
+                    background-color: $color-fondo-titulo-carrusel;
+                    border-radius: 15px;
+                    padding-top: 5px;        
+                }
+            }
+        }
+    }
+}
+
+// INDEX SIN CARRUSEL HASTA XL
+.position1 {
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    h3 {
+        background-color: $color-fondo-titulos;
+    }
+} 
+.position2 {
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    h3 {
+        background-color: $color-fondo-titulos; 
+    }
+}
+.consulta {
+    background-color: $color-fondo-titulos;
+    a {
+        color: $color-consulta-index;
+        text-decoration: underline;
+        font-size: 30px;
+    }
+}

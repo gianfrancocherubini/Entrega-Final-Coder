@@ -1,0 +1,66 @@
+// MAIN ACTIVIDADES
+
+.actividades {
+    margin-top: 126px;
+    padding: 15px;
+    text-align: center;
+    border-bottom: solid 5px;
+    background-color: $color-fondo-titulos;  
+    h1 {
+        font-size: 50px;
+        text-decoration: underline;       
+    }
+    h2 {
+        font-size: 35px; 
+    }
+}
+.cards {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    gap: 35px;
+    .rio {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        width: 100%;
+        border: solid;
+        border-radius: 5px;
+        background-color: $color-fondo-titulos;
+        padding: 15px; 
+        img {
+            width: 30%;
+            height: 50%;
+            object-fit: cover;
+            border-radius: 5px;
+            border: solid;
+        }
+        .body_card {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-content: space-between;
+            padding: 10px;
+            text-align: center;
+            h3 {
+                text-decoration: underline;
+                font-size: 40px;        
+            }
+            p {
+                font-size: 20px;
+            }
+            a {
+                color: $color-letras;
+                font-size: 22px;
+                background-color: $color-consulta;
+                padding: 5px;
+                border-radius: 5px;
+                text-decoration: none;
+                &:hover {
+                    background-color: $color-hover;
+                    transition: 0.7s;
+                }  
+            }       
+        }
+    }
+}
