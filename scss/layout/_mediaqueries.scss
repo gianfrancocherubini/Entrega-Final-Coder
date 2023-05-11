@@ -129,6 +129,19 @@
             font-weight: bolder;        
         }
     }
+    .grilla {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding: 0;
+        .c11 {
+            height: 250px;
+        }
+        .c12 {
+            height: 250px;
+        }
+    
+    }
                                         // MEDIAQUERIES "CONTACTO" HASTA 480PX
     .contacto {
         margin-top: 126px;
@@ -265,7 +278,19 @@
     .galeria h1 {
         font-size: 40px;
         font-weight: bolder;
-    }    
+    }  
+    .grilla {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding: 0;
+        .c11 {
+            height: 350px;
+        }
+        .c12 {
+            height: 350px;
+        }
+    }  
                                         // MEDIAQUERIES "CONTACTO" DESDE 481PX HASTA 600PX
     .contacto h1 {
         font-size: 35px;
@@ -380,7 +405,19 @@
                                         // MEDIAQUERIES "GALERIA" DESDE 601PX HASTA 1100PX 
     .galeria h1 {
         font-weight: bolder;
-    }    
+    } 
+    .grilla {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding: 0;
+        .c11 {
+            height: 500px;
+        }
+        .c12 {
+            height: 500px;
+        }
+    }   
                                         // MEDIAQUERIES "CONTACTO" DESDE 601PX HASTA 1199PX
     .contacto h1 {
         font-weight: bolder;
