@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/issues</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/pulls</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/actions</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/projects?query=is%3Aopen</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/security</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/commit/32b05a7af54e845bb149f914ddc4c464a5fd03cf</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/blob/master/index.html</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/blob/master/package.json</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/releases</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/labels</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/compare</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/actions/caches</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/actions/runs/4962523267</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/commit/bf1e044f79cec5d0be41a1f0b52ba77854e235b8</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/blob/32b05a7af54e845bb149f914ddc4c464a5fd03cf/index.html</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/find/master</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/blob/32b05a7af54e845bb149f914ddc4c464a5fd03cf/package.json</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/labels?sort=name-asc</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/labels?sort=name-desc</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/labels?sort=count-desc</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/labels?sort=count-asc</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/labels/bug</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/labels/documentation</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/labels/duplicate</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/labels/enhancement</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/labels/good%20first%20issue</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/labels/help%20wanted</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/labels/invalid</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/labels/question</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/labels/wontfix</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?state=open</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?state=closed</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/actions/runs/4962523267/jobs/8880683816</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/actions/runs/4962523267/jobs/8880692534</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/actions/runs/4962523267/jobs/8880692658</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/actions/runs/4962523267/usage</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/commit/66f50bf29a6c9478074e4225209d1cb658f7638c</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/find/32b05a7af54e845bb149f914ddc4c464a5fd03cf</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/commit/6625f744cdc110d399adf3dd99a346a926c59a08</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/commit/5f7fe7c53d1954dbecec651aea75c2eae3b96e45</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/commit/9c4bc9937d011b4e34b56e8e7c9c766eca1ab1af</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/commit/f6e9e5b7f070fbf518f76d399c2779510d3e9879</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/commit/6ae9c355197cc17c43f444e41f5fe239cb7de17c</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/commit/2c3f911eb203d2843bb7fc2a4e4acb59254ed265</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/commit/a43e331ec211fe5c3da654cafac695bdcdfc6f78</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/gianfrancocherubini/Entrega-Final-Coder/commit/6996a55252df60cd110ef70d1413698a024750fd</loc>
+  <lastmod>2023-05-12T20:05:30+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+
+
+</urlset>
